@@ -33,3 +33,8 @@ body{
 .navbar-dark{
     background-color: #512dab;
 }
+.btext{
+    text-decoration: none;
+    color: purple;
+    font-weight: 600;
+}
