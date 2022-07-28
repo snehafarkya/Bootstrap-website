@@ -39,3 +39,9 @@ body{
     font-weight: 600;
     
 }
+#aform:hover{
+text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
